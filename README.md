@@ -2,7 +2,7 @@
 Malawi Test Catalog is a web application for efficient management and browsing of malawi laboratory tests  
 
 ## Requirements
-node: 18
+node: 18  
 pm2
 
 ## Installation
