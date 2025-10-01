@@ -1,0 +1,1 @@
+import{_ as e}from"./CQHbR3_x.js";import{_,c,b as a,f as o,ar as r,F as s}from"./PjMfiYHK.js";import"./tDPV237c.js";const m={};function p(f,u){const t=e,n=r;return a(),c(s,null,[o(t,{color:"#16a34a",height:3}),o(n)],64)}const x=_(m,[["render",p]]);export{x as default};
