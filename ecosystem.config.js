@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
         {
-            name: 'IBLIS',
+            name: 'MalawiTestCatalog',
             script: 'node ./server/index.mjs',
             env: {
                 PORT: 8007,
