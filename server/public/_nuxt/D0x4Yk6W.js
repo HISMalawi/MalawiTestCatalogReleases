@@ -1,0 +1,1 @@
+import{ap as s,D as u,m as r}from"./DSPXqrpM.js";const n=s(async(a,i)=>{const t=u(),e=sessionStorage.getItem("auth_token");if(!e&&!t.isAuthenticated)return r({path:"/",query:{redirect:a.fullPath}});if(e&&!t.isAuthenticated&&t.setToken(e),!t.isAuthenticated)return r({path:"/",query:{redirect:a.fullPath}})});export{n as default};

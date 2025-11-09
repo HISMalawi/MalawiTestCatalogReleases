@@ -1,0 +1,1 @@
+import{ap as s,an as u,l as r}from"./PjMfiYHK.js";const o=s(async(a,i)=>{const t=u(),e=sessionStorage.getItem("auth_token");if(!e&&!t.isAuthenticated)return r({path:"/",query:{redirect:a.fullPath}});if(e&&!t.isAuthenticated&&t.setToken(e),!t.isAuthenticated)return r({path:"/",query:{redirect:a.fullPath}})});export{o as default};
